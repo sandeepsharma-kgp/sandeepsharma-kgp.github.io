@@ -1,0 +1,845 @@
+*{
+	margin:opx;
+	padding:0px;
+}
+nav,section{
+	display:block;
+}
+#big_wrapper{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-pack:center;
+	-webkit-box-orient:vertical;
+	-moz-box-pack:center;
+	margin-top:0px;
+	
+}
+
+body{
+	background-image:url("images/background.png");
+}
+
+#top_menu{
+    display:-webkit-box;
+    display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	background-image:url("images/head_back.png");
+	background-repeat:no-repeat;
+	color:white;
+	width:964px;
+	height:76px;
+	-webkit-box-pack:left;
+	-moz-box-pack:left;
+}
+
+a.a1:link    {color:#e6e3bb;}
+a.a1:visited {color:#e6e3bb;}
+a.a1:hover   {color:#8e4423;}
+a.a1:active  {color:#8e4423;}
+
+img.a2:active{width:6px;height:15px;}
+img.a2:hover{width:7px;height:16px;}
+
+img.a3:hover{width:86px;height:25px;}
+#link0{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	margin-left:22px;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	font:italic 30px "Nikaia";
+}
+
+#link01{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	margin-left:18px;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+}
+
+#link1{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	padding:5px;
+	margin-left:12px;	
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	font:normal 14px "Myriad Pro";
+}
+
+#link2{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	padding:5px;
+	margin-left:24px;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	font:normal 14px "Myriad Pro";
+}
+
+#link3{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	padding:5px;
+	margin-left:24px;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	font:normal 14px "Myriad Pro";
+}
+
+#link4{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	padding:5px;
+	margin-left:24px;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	font:normal 14px "Myriad Pro";
+}
+
+#link5{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	padding:5px;
+	margin-left:24px;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	font:normal 14px "Myriad Pro";
+}
+
+#link6{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	margin-left:190px;
+	
+}
+
+#link7{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	margin-left:7px;
+}
+
+#top{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	-webkit-box-pack:center;	
+}
+#wrapper{
+    
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	-webkit-box-pack:center;	
+}
+
+
+#new_div{
+	background-image:url("images/1@2xback.png");
+	background-repeat:no-repeat;
+	margin-top:-36px;
+	margin-bottom:302px;
+	height:1658px;
+	width:966px;
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	
+}
+
+#new_div01{
+	margin-top:350px;
+	width:966px;
+}
+
+
+#new_div1{
+	margin-top:-25px;
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	-webkit-box-pack:center;
+}
+
+#kid1{
+	margin-left:10px;
+	display:-webkit-box;
+}
+
+#kid2{
+	display:-webkit-box;
+	margin-right:33px;
+	margin-left:33px;
+	font:italic 16px nikaia;
+	color:#ffffff;
+}
+
+#kid3{
+	display:-webkit-box;
+	margin-right:5px;
+}
+
+#new_div2{
+	display:-webkit-box;
+	margin-top:15px;
+	-webkit-box-orient:horizontal;
+	max-width:966px;
+}
+
+#child1{
+	display:-webkit-box;
+	width:126px;
+	height:104px;
+	margin:20px;
+	
+}
+
+#child2{
+	display:-webkit-box;
+	width:126px;
+	height:104px;
+	margin-left:10px;
+	margin:20px 0px;
+}
+#child3{
+	display:-webkit-box;
+	width:126px;
+	height:104px;	
+	margin:20px
+}
+#child4{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	width:500px;
+	height:104px;
+	margin:20px 0px 20px 10px;
+}
+
+#child4_ver1{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;	
+}
+
+#child4_ver1_h1{
+	display:-webkit-box;
+	width:25px;
+	height:40px;
+}
+
+
+#ch1{
+	margin:0px;
+	margin-left:15px;
+	font:bold 18px "Myriad Pro";
+	color:#8e4423;
+}
+
+#ch2{
+	margin:0px;
+	margin-left:15px;
+	font:italic 12px "Myriad Pro";
+	color:#646363;
+}
+
+#ch3{
+	margin-top:12px;
+	margin-right:15px;
+	color:#7b7a6d;
+	font:normal 13px "Myriad Pro";
+}
+
+#new_div3{
+	margin-top:-5px;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+}
+
+#new_div4{
+	height:160px;
+	margin-top:140px;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizonal;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+}
+
+#chl1{
+	
+	display:-webkit-box;
+	display:-moz-box;
+	width:966px;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;	
+	-webkit-box-flex:1;
+}
+
+#chl1_1{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	margin:0px;
+	margin-bottom:5px;
+	font:italic 18px Nikaia;
+	color:#8e4423;
+}
+
+#chl1_2{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	margin:0px 60px 15px;
+	text-align:center;
+	font:normal 13px "Myriad Pro";
+	color:#7b7a6d;
+}
+
+#chl1_3{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+}
+
+#new_div5{
+	margin-top:50px;
+	padding-left:20px;
+}
+
+iframe{
+	overflow:hidden;
+}
+
+#new_div6{
+	height:210px;
+	margin-top:-23px;	
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	
+}
+
+#chl2{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	width:395px;
+	margin:0px;
+	margin-left:23px;
+	margin-top:15px;
+}
+
+
+
+#chl2_01{
+	font:italic 18px TitilliumText14L;
+	font-weight:800;
+	color:#8e4423;
+}
+
+#chl2_02{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	width:395px;
+}
+
+#chl2_1{
+	font:italic 18px TitilliumText14L;
+	font-weight:250;
+	color:#8e4423;
+}
+
+#chl2_2{
+	display:-webkit-box;
+	display:-moz-box;
+	font:normal 13px "Myriad Pro";
+	color:#7b7a6d;
+	width:226px;
+	margin-left:0px;
+	margin-right:20px;
+	text-align:left;
+}
+#chl2_3{
+	display:-webkit-box;
+	display:-moz-box;
+	width:395px;
+	font:normal 13px "Myriad Pro";
+	color:#7b7a6d;
+}
+
+#chl2_img{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	margin-left:10px;
+}
+
+#chl2_img1{
+	margin-top:2px;
+	display:-webkit-box;
+	width:12px;
+	height:205px;
+	display:-moz-box;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+}
+
+#chl2_side{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	margin-left:10px;
+	margin-top:15px;
+	margin-right:20px;
+	height:172px;
+}
+
+#chl2_side_1{
+	background-image:url(images/Shape-2@2x.png);
+	background-repeat:no-repeat;
+	height:41px;
+	width:281px;
+	margin-top:12px;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+}
+
+#chl2_side_1_1{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-flex:1;
+}
+
+#chl2_side_1_2{
+	display:-webkit-box;
+	display:-moz-box;
+	margin-right:2px;
+}
+
+#chl2_side_2{
+	height:70px;
+	width:495px;
+	margin-top:26px;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+}
+
+#chl2_side_02{
+	display:-webkit-box;
+	display:-moz-box;
+	width:62px;
+}
+
+#chl2_side_03{
+	background-image:url("images/Shape-2@2x (2).png");
+	background-repeat:no-repeat;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-pack:right;
+	-webkit-box-flex:1;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	margin-left:10px;
+}
+
+.imge{
+	position: relative; 
+	top:41px;
+	left:394px;
+	width:25px;
+	height:25px;
+	opacity:0.2;
+}
+
+#new_div7{
+	height:172px;
+	margin-top:45px;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+}
+
+#chl3{
+	width:275px;
+	margin-left:20px;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+}
+
+#chl4{
+	width:200px;
+	margin-left:35px;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+}
+
+#chl5{
+	width:195px;
+	margin-left:30px;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+}
+
+#chl6{
+	width:138px;
+	margin-left:38px;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+}
+
+#chl3_1{
+	display:-webkit-box;
+	display:-moz-box;
+	height:18px;
+	margin:0px;
+	margin-left:15px;
+	font:italic 18px "Nikaia";
+	color:#8e4423;
+}
+
+#chl3_2{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	width:275px;
+	margin-top:0px;
+	margin-left:1px;
+	height:22px;
+	-webkit-box-pack:center;
+}
+
+#chl3_3{
+	display:-webkit-box;
+	display:-moz-box;
+	width:275px;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	
+}
+
+
+#chl3_3_1{
+	display:-webkit-box;
+	display:-moz-box;
+}
+
+#chl3_3_2{
+	margin:0px;
+	margin-top:4px;
+	display:-webkit-box;
+	display:-moz-box;
+}
+
+
+#chl3_img1{
+margin:0px;
+}
+
+#chl3_img2{
+margin:0px 10px;
+}
+
+#chl4_1{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	width:200px;
+	height:18px;
+	margin:0px;
+	font:italic 18px "Nikaia";
+	color:#8e4423;
+	-webkit-box-pack:center;
+}
+
+#chl4_2{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	width:200px;
+	height:18px;
+	margin:0px;
+	padding:0px;
+}
+
+#chl4_3{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	width:200px;
+	height:24px;
+	margin:0px;
+	margin-top:8px;
+	padding:0px;
+}
+
+#chl4_4{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	width:200px;
+	height:25px;
+	margin:0px;
+	margin-top:11px;
+	padding:0px;
+}
+
+#chl4_5{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	width:200px;
+	height:15px;
+	margin:0px;
+	margin-top:16px;
+	padding:0px;
+}
+
+#chl4_6{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	width:200px;
+	height:17px;
+	margin:0px;
+	margin-top:14px;
+	padding:0px;
+}
+
+
+#chl5_1{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	height:18px;
+	margin:0px;
+	font:italic 18px "Nikaia";
+	color:#8e4423;
+	width:195px;
+}
+
+#chl5_2{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	height:10px;
+	width:195px;
+}
+
+#chl5_3{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;	
+	font:normal 13px "Myriad Pro";
+	height:14px;
+	color:#4f504b;
+	margin-top:10px;
+	width:195px;
+}
+
+#chl5_4{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	width:195px;
+	font:normal 13px "Myriad Pro";
+	height:14px;
+	color:#4f504b;
+	margin-top:15px;
+}
+
+#chl5_5{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	width:195px;
+	color:#4f504b;
+	font:normal 13px "Myriad Pro";
+	height:14px;
+	margin-top:12px;
+}
+
+
+#chl6_1{
+	width:138px;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	height:18px;
+	margin:0px;
+	font:italic 18px "Nikaia";
+	color:#8e4423;
+}
+
+#chl6_2{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;
+	height:10px;
+	width:138px;
+}
+
+#chl6_3{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;	
+	font:normal 14px "Myriad Pro";
+	height:14px;
+	margin-top:10px;
+	width:138px;
+}
+
+
+#chl6_4{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;	
+	font:normal 14px "Myriad Pro";
+	height:14px;
+	margin-top:15px;
+	width:138px;
+}
+
+
+#chl6_5{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	-webkit-box-pack:center;	
+	font:normal 14px "Myriad Pro";
+	height:14px;
+	margin-top:10px;
+	width:138px;
+}
+
+#new_div8{
+	height:21px;
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+	margin:0px;
+	margin-top:57px;
+}
+
+#chl7{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	-webkit-box-flex:1;
+	margin-left:30px;
+}
+
+#chl7_1{
+	font:normal 12px "Myriad Pro";
+	color:#725142;
+}
+
+#chl8{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	-webkit-box-pack:right;
+	margin-right:22px;
+}
+
+#chl8_1{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-pack:right;
+	-moz-box-pack:right;
+	font:normal 12px "Myriad Pro";
+	color:#725142;
+	word-spacing:15px;
+}

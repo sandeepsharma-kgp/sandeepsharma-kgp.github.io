@@ -1,0 +1,170 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background-image:url("images/Shape-18Testinomials1@2x.png");
+	background-repeat:no-repeat;
+}
+
+header,content{
+	display:block;
+}
+
+#big_wrap{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	width:920px;
+	height:207px
+}
+
+#top_head{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horinzontal;
+	width:920px;
+	height:25px;
+}
+
+#tst_content{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horinzontal;
+	width:920px;
+	height:182px;
+}
+
+#lp{
+	display:-webkit-box;
+	display:-moz-box;
+	height:25px;
+	font:normal 12px vegur;
+	margin-left:315px;
+	padding-top:9px;	
+}
+
+#tst{
+	display:-webkit-box;
+	display:-moz-box;
+	height:25px;
+	font:normal 14px vegur;
+	margin-left:50px;
+	padding-top:6px;	
+}
+
+#bp{
+	display:-webkit-box;
+	display:-moz-box;
+	height:25px;
+	font:normal 12px vegur;
+	margin-left:50px;
+	padding-top:9px;
+}
+
+a.a1:link    {color:#e6e3bb;}
+a.a1:visited {color:#e6e3bb;}
+a.a1:hover   {color:#8e4423;}
+a.a1:active  {color:#8e4423;}
+
+a.a2:link    {color:#5b5b5b;}
+a.a2:visited{ color:#5b5b5b;}
+a.a2:hover  {font-size:105%;}
+a.a2:active  {font-size:105%;}
+
+
+a.a3:link    {color:#8e4423;}
+a.a3:visited { color:#8e4423;}
+a.a3:hover   {color:#e6e3bb;}
+a.a3:active{color:#e6e3bb;}
+
+a.a4:link {color:#7b7a6d;}
+a.a4:visited {color:#7b7a6d;}
+a.a4:hover {color:#e6e3bb;}
+a.a4:active {color:#e6e3bb;}
+
+img.cov:hover{width:38px;height:38px;}
+img.cov:active{width:36px;height:36px;}
+
+
+#prev{
+	display:-webkit-box;
+	display:-moz-box;
+	height:182px;
+	width:40px;
+	padding-top:70px;
+	padding-left:15px;
+	margin-left:5px;
+}
+
+#next{
+	display:-webkit-box;
+	display:-moz-box;
+	height:182px;
+	width:40px;
+	padding-top:70px;
+	margin-left:17px;
+}
+
+#Jay{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	height:182px;
+	width:325px;
+	padding-top:22px;
+	margin-left:59px;
+}
+
+#Jo{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	height:182px;
+	width:364px;
+	padding-top:22px;
+	margin-left:37px;
+}
+
+#child1{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;	
+}
+
+#child1_1{
+	display:-webkit-box;
+	width:25px;
+	height:40px;
+	padding-top:10px;
+}
+
+
+#ch1{
+	margin:0px;
+	margin-left:15px;
+	font:bold 18px "Myriad Pro";
+	color:#8e4423;
+}
+
+#ch2{
+	margin:0px;
+	margin-left:15px;
+	font:italic 12px "Myriad Pro";
+	color:#646363;
+}
+
+#ch3{
+	display:inline;
+	margin-top:12px;
+	margin-right:15px;
+	color:#7b7a6d;
+	font:italic 14px "Nikaia";
+	text-align:left;
+}
+
